@@ -6,7 +6,7 @@
     I'm Keerthi Gopu
 </h1>
 
-###  *Turning Data into Insights, and Insights into Impact.*
+###  *Welcome to my little corner of Github!*
 
 </div>
 
