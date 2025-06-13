@@ -16,7 +16,7 @@
 
 ## 📘 About Me
 
-I'm a **Data** **Analyst** with 3+ years of experience helping businesses make smarter decisions with data. From building dashboards and automating ETL workflows to performing statistical analysis and uncovering hidden trends, I bridge the gap between data and action.
+I'm a **Data** **Analyst** with 3 years of experience helping businesses make smarter decisions with data. From building dashboards and automating ETL workflows to performing statistical analysis and uncovering hidden trends, I bridge the gap between data and action.
 
 - With a master's degree in Computer Science, I bring both academic depth and real-world data experience.
 
